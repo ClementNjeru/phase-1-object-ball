@@ -125,5 +125,5 @@ function gameObject(){
             }
         }
     }
-    numPointsScored('DeSagna Diop');
+    numPointsScore('DeSagna Diop');
     
